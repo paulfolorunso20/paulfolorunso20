@@ -1,47 +1,48 @@
 <!-- Professional Header Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/w1P8CAY.png" width="100%" alt="professional header banner">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E90FF&height=160&section=header&text=Paul%20Folorunso%20|%20Software%20Engineer&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="banner"/>
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#1E90FF;">P. Trump</span></h1>
-<h3 align="center">💻 Software Engineer | 🧠 Tech Enthusiast | 🚀 Problem Solver</h3>
+<h2 align="center">👋 Hello, I'm <span style="color:#1E90FF;">Paul Folorunso</span></h2>
+<h4 align="center">💻 Software Engineer | 🚀 Problem Solver | 🌐 Web Developer</h4>
 
 ---
 
-### 🧩 About Me  
-👨‍💻 I'm **Paul Folorunso**, a passionate **Software Developer** dedicated to transforming innovative ideas into real-world solutions.  
-💡 I focus on writing **clean, efficient code** and creating **smooth, user-friendly web experiences**.  
-🔥 Currently deepening my skills in **React.js**, **API integrations**, and **modern UI design**.  
-🎯 My goal is to **build scalable, impactful systems** that make life easier and smarter.
+### 🧭 About Me  
+I’m a **Software Engineer** passionate about crafting **scalable and efficient** web applications.  
+I enjoy transforming ideas into clean, maintainable, and impactful digital products.  
+
+- 🔭 Currently exploring **React.js**, **Node.js**, and **API integration**  
+- 💡 Interested in **Web3**, **Cloud Computing**, and **Open Source**  
+- ⚙️ Focused on building **user-centric** and **performance-driven** systems  
+- 🎯 Motto: *Code. Learn. Build. Repeat.*
 
 ---
 
-### ⚙️ My Toolbox  
+### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,react,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,mysql,vscode,git,github" />
 </p>
 
 ---
 
-### 📈 GitHub Insights  
+### 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulfolorunso20&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulfolorunso20&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulfolorunso20&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paulfolorunso20&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulfolorunso20&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulfolorunso20&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
 ### 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paulfolorunso20&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=paulfolorunso20&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:folorunsopaul421@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/paulfolorunso20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -56,7 +57,8 @@
   <img src="https://github.com/paulfolorunso20/paulfolorunso20/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<p align="center">
-  <i>“Code. Learn. Improve. Repeat.”</i>
-</p>
+---
 
+<p align="center"><i>“Building tomorrow’s solutions — one line of code at a time.”</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0A192F&height=120&section=footer" width="100%" alt="footer"/>
