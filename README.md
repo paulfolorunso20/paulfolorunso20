@@ -64,4 +64,4 @@ I enjoy transforming ideas into clean, maintainable, and impactful digital produ
 
 <p align="center"><i>“Building tomorrow’s solutions — one line of code at a time.”</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0A192F&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E90FF&height=120&section=footer" width="100%" alt="footer"/>
