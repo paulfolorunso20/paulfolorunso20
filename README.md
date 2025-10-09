@@ -1,16 +1,18 @@
-<!-- Header Banner -->
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="wave header">
+<!-- Professional Header Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/w1P8CAY.png" width="100%" alt="professional header banner">
+</p>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#1E90FF;">P. Trump</span></h1>
-<h3 align="center">💻 Software Engineer | 🧠 Tech Bro 💯 | 🚀 Problem Solver</h3>
+<h3 align="center">💻 Software Engineer | 🧠 Tech Enthusiast | 🚀 Problem Solver</h3>
 
 ---
 
 ### 🧩 About Me  
-👨‍💻 I'm **Paul Folorunso**, a passionate **Software Developer** who loves turning ideas into real-world solutions.  
-💡 Focused on writing clean, efficient code and creating smooth, beautiful web experiences.  
-🔥 Always learning — currently exploring **React.js** and **API integrations**.  
-🎯 Goal: To build scalable systems that make life easier.
+👨‍💻 I'm **Paul Folorunso**, a passionate **Software Developer** dedicated to transforming innovative ideas into real-world solutions.  
+💡 I focus on writing **clean, efficient code** and creating **smooth, user-friendly web experiences**.  
+🔥 Currently deepening my skills in **React.js**, **API integrations**, and **modern UI design**.  
+🎯 My goal is to **build scalable, impactful systems** that make life easier and smarter.
 
 ---
 
@@ -57,3 +59,4 @@
 <p align="center">
   <i>“Code. Learn. Improve. Repeat.”</i>
 </p>
+
