@@ -2,7 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E90FF&height=160&section=header&text=Paul%20Folorunso%20|%20Software%20Engineer&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="banner"/>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/paulfolorunso20/paulfolorunso20/main/assets/wave-hand.gif" width="30px" alt="wave hand">
+  <img src="assets/wave-hand.gif" width="30px" alt="wave hand">
+
   Hey there, I'm <span style="color:#1E90FF;">Paul Folorunso</span>
 </h2>
 <h4 align="center">💻 Software Engineer | 🚀 Problem Solver | 🌐 Web Developer</h4>
