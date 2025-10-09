@@ -23,15 +23,18 @@
 
 ### 📈 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulfolorunso20&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulfolorunso20&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulfolorunso20&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulfolorunso20&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulfolorunso20&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
 
 ### 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paulfolorunso20&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=paulfolorunso20&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
@@ -46,8 +49,11 @@
 
 ---
 
+### 🐍 Contribution Snake  
 <p align="center">
   <img src="https://github.com/paulfolorunso20/paulfolorunso20/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="wave footer">
+<p align="center">
+  <i>“Code. Learn. Improve. Repeat.”</i>
+</p>
