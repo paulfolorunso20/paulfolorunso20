@@ -93,6 +93,10 @@ Currently building and improving projects around:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulfolorunso20&theme=github_dark" alt="Profile summary card" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/paulfolorunso20/paulfolorunso20/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
 ---
 
 ## Focus
