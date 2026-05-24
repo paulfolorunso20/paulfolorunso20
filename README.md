@@ -37,7 +37,7 @@ Currently building and improving projects around:
 
 <table>
   <tr>
-    <td width="55%">
+    <td>
       <h3>Attendance System</h3>
       <p>
         A QR-based attendance verification platform with lecturer sessions, student attendance marking,
@@ -48,9 +48,6 @@ Currently building and improving projects around:
           <img src="https://img.shields.io/badge/View%20Repository-071A2F?style=for-the-badge&logo=github&logoColor=white" alt="Attendance System repository" />
         </a>
       </p>
-    </td>
-    <td width="45%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulfolorunso20&repo=Attendance_System&theme=tokyonight&hide_border=true&bg_color=071A2F&title_color=FFFFFF&text_color=D7E4F2&icon_color=0F7A45" alt="Attendance System pinned card" />
     </td>
   </tr>
 </table>
@@ -75,12 +72,17 @@ Currently building and improving projects around:
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulfolorunso20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=071A2F&title_color=FFFFFF&text_color=D7E4F2&icon_color=0F7A45" alt="GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=paulfolorunso20&theme=tokyonight&hide_border=true&background=071A2F&ring=0F7A45&fire=0F7A45&currStreakLabel=FFFFFF" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulfolorunso20&layout=compact&theme=tokyonight&hide_border=true&bg_color=071A2F&title_color=FFFFFF&text_color=D7E4F2" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulfolorunso20&theme=github_dark" alt="GitHub profile stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulfolorunso20&theme=github_dark" alt="Repositories per language" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paulfolorunso20&theme=github_dark" alt="Most committed languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paulfolorunso20&theme=github_dark&utcOffset=1" alt="Productive time" />
 </p>
 
 ---
@@ -89,10 +91,6 @@ Currently building and improving projects around:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulfolorunso20&theme=github_dark" alt="Profile summary card" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/paulfolorunso20/paulfolorunso20/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 ---
